@@ -1,3 +1,3 @@
-#UX hub Presentation
+UX hub Presentation
 -----------------------
-ixd304
+IXD304 Designing User Experiences
